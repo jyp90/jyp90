@@ -64,7 +64,6 @@
 <p align="center" dir="auto">
 <h3><g-emoji class="g-emoji" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png"> ☀️ </g-emoji>CI/CD</h3>
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f07984f16264bd6a4d8795653c37419551818e8aa338ae7fbf3b21ed057739c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a656e6b696e732d4432343933393f7374796c653d666f722d7468652d6261646765266c6f676f3d6a656e6b696e73266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/f07984f16264bd6a4d8795653c37419551818e8aa338ae7fbf3b21ed057739c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a656e6b696e732d4432343933393f7374796c653d666f722d7468652d6261646765266c6f676f3d6a656e6b696e73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&amp;logo=jenkins&amp;logoColor=white" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f07984f16264bd6a4d8795653c37419551818e8aa338ae7fbf3b21ed057739c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a656e6b696e732d4432343933393f7374796c653d666f722d7468652d6261646765266c6f676f3d6a656e6b696e73266c6f676f436f6c6f723d7768697465"><img src="" data-canonical-src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&amp;logo=jenkins&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 
 
